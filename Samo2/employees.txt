@@ -1,0 +1,5 @@
+Єгор,20,Junior Developer,25000.0
+Анна,25,Middle Developer,45000.0
+Олег,35,Project Manager,65000.0
+Марія,22,QA Engineer,28000.0
+Іван,40,Senior Developer,85000.0
